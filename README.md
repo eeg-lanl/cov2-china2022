@@ -1,4 +1,5 @@
-Code and data files for "Swift and extensive Omicron outbreak in China after sudden exit from 'zero-COVID' policy".
+Code and data files for "Swift and extensive Omicron outbreak in China after sudden exit from 'zero-COVID' policy". <br>
+Goldberg, Lin, Romero-Severson, Ke. 2023. Nature Communications.
 
 Data:
   * `cases.csv` : official case counts
